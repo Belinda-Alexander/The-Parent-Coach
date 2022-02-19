@@ -1,0 +1,18 @@
+#introPic {
+        display: flex;
+        height: 100px;
+        width: 200px;
+        margin: 0;
+        border-radius: 5 px;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: yellow;
+}
+
+.row-content {
+        margin: 20;
+        padding: 50px;
+}
