@@ -1,18 +1,39 @@
-#introPic {
-        display: flex;
-        height: 100px;
-        width: 200px;
-        margin: 0;
-        border-radius: 5 px;
-}
 
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: yellow;
+    background-color: yellow;
 }
 
 .row-content {
         margin: 20;
         padding: 50px;
+}
+
+#header1 {
+        color: blue;
+}
+
+.navbar {
+        background-color: rgb(63, 63, 236);
+}
+
+.nav-item {
+        font: bold;
+}
+
+.breadcrumb{
+        background-color: rgb(129, 228, 245);
+}
+
+.breadcrumb > .active{
+        color: white;
+}
+
+#mLh2 {
+        color:blue;
+}
+
+#baseball {
+        border-radius: 50%;
 }
